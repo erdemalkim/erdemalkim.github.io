@@ -16,7 +16,7 @@ During my master study, I have worked as a research assistant in the
 department and also participated in two
 Scientific Research Projects.
 
-I have [published](/pubs/) papers on topics in artificial neural networks, hardware implementation and parallel processing. 
+I have [published](/pubs.md) papers on topics in artificial neural networks, hardware implementation and parallel processing. 
 
 I can be reached at work by email at [erdem.alkim@ce.omu.edu.tr](mailto:erdem.alkim@ce.omu.edu.tr).
 
