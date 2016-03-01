@@ -12,7 +12,7 @@ Currently I am doing PhD at [Department of Mathematics][dep2] of Ege University 
 My dissemination topic is "Analysis, Design and Efficient implementation of Next Generation Cryptosystems", and my advisors are [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org). I am also working with [Sedat Akleylek](https://sites.google.com/a/bil.omu.edu.tr/akleylek/home) in several projects.
 
 Currently I am a visiting student in [Digital Security Group](http://www.ru.nl/ds), Radboud University, Nijmegen, Netherlands.
-In here, I have been working on efficient implementations lattice-based cryptography with [Peter Schwage](https://www.cryptojedi.org), since April 2015.
+In here, I have been working on efficient implementations of lattice-based cryptographic primitives with [Peter Schwage](https://www.cryptojedi.org), since April 2015.
 
 During My master, I studied on the FPGA implementations of some algorithms that have applications in cryptography, coding theory, signal processing and machine learning.  
 I had my MSc. degree from [Department of Computer Engineering][dep] 
