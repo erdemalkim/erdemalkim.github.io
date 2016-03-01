@@ -7,3 +7,4 @@ http://erdemalkim.github.com/pubs
 http://erdemalkim.github.com/rss.xml
 http://erdemalkim.github.com/sitemap.txt
 http://erdemalkim.github.com/tags
+http://erdemalkim.github.com/%C3%BC
