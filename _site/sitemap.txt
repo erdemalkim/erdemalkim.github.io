@@ -1,0 +1,9 @@
+
+http://erdemalkim.github.com/archive
+http://erdemalkim.github.com/atom.xml
+http://erdemalkim.github.com/categories
+http://erdemalkim.github.com/
+http://erdemalkim.github.com/pubs
+http://erdemalkim.github.com/rss.xml
+http://erdemalkim.github.com/sitemap.txt
+http://erdemalkim.github.com/tags
