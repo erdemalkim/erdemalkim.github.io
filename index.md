@@ -23,7 +23,7 @@ Scientific Research Projects.
 
 I have [published](/pubs.html) papers on topics in artificial neural networks, hardware implementation, parallel processing and also lattice-based cryptography. 
 
-I can be reached at work by email at [erdemalkim@gmail.com](mailto:erdemalkim@gmail.com).
+I can be reached by email at [erdemalkim@gmail.com](mailto:erdemalkim@gmail.com).
 
 [dep]:http://ce.omu.edu.tr/a/en/
 [dep2]:http://sci.ege.edu.tr/~math

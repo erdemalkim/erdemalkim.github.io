@@ -12,6 +12,7 @@ Below are some of the papers I have published.
 
 [Sparse polynomial multiplication for lattice-based cryptography with small complexity][smlb]. Sedat Akleylek, Erdem Alkım and Zaliha Yüce Tok. The Journal of Supercomputing, 72(2), 438-450, 2016. Doi: 10.1007/s11227-015-1570-1
 
+
 [A fast and adaptive automated disease diagnosis method with an innovsative neural network model][nn1]. Erdem Alkım, Emre Gürbüz and [Erdal Kılıç][ekilic]. Neural Networks, vol. 33, pp 88-96, 2012. Doi: j.neunet.2012.04.010
 
 ## Peer Review Conference Papers
@@ -25,7 +26,6 @@ Below are some of the papers I have published.
 [Post-quantum key exchange - a new hope][newhope]. Erdem Alkım, Léo Ducas, Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report 2015/1092.
 
 [TESLA: Tightly-Secure Efficient Signatures from Standard Lattices][tesla]. Erdem Alkım, Nina Bindel, Johannes Buchmann, Özgür Dagdelen and Peter Schwabe. Cryptology ePrint Archive: Report 2015/755.
-
 
 
 [ekilic]:http://ilkadim.omu.edu.tr/~ekilic/
