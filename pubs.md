@@ -23,6 +23,8 @@ Below are some of the papers I have published.
 
 ## Tech. Reports, Preprints
 
+[A new hope on Cortex-M][newhopearm]. Erdem Alkım, Philipp Jakubeit and Peter Schwabe.([Codes][newhopearmcodes])
+
 [Post-quantum key exchange - a new hope][newhope]. Erdem Alkım, Léo Ducas, Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report 2015/1092.
 
 [TESLA: Tightly-Secure Efficient Signatures from Standard Lattices][tesla]. Erdem Alkım, Nina Bindel, Johannes Buchmann, Özgür Dagdelen and Peter Schwabe. Cryptology ePrint Archive: Report 2015/755.
@@ -35,3 +37,5 @@ Below are some of the papers I have published.
 [siu2]:http://dx.doi.org/10.1109/SIU.2011.5929581
 [tesla]:https://eprint.iacr.org/2015/755
 [newhope]:https://eprint.iacr.org/2015/1092
+[newhopearm]:https://github.com/erdemalkim/newhopearm
+[newhopearmcodes]:https://github.com/erdemalkim/newhopearm
