@@ -37,5 +37,5 @@ Below are some of the papers I have published.
 [siu2]:http://dx.doi.org/10.1109/SIU.2011.5929581
 [tesla]:https://eprint.iacr.org/2015/755
 [newhope]:https://eprint.iacr.org/2015/1092
-[newhopearm]:https://github.com/erdemalkim/newhopearm
+[newhopearm]:http://ia.cr/2016/758
 [newhopearmcodes]:https://github.com/erdemalkim/newhopearm
