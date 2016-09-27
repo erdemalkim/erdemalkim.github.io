@@ -17,17 +17,17 @@ Below are some of the papers I have published.
 
 ## Peer Review Conference Papers
 
+[A new hope on Cortex-M][newhopearm]. Erdem Alkim, Philipp Jakubeit and Peter Schwabe. The Sixth International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE2016) (_Accepted_) ([Software][newhopearmcodes])
+
+[Post-quantum key exchange - a new hope][newhope]. Erdem Alkim, Léo Ducas, Thomas Pöpplemann and Peter Schwabe. 25th USENIX Security Symposium (USENIX Security 16), pp 327-343, 2016. ISBN: 978-1-931971-32-4. (Cryptology ePrint Archive: Report [2015/1092][newhopeiacr]).
+
 [Chip design for intelligent data classification algorithms and implementation on an FPGA: A case study to classify EMG signals][siu1]. Erdem Alkım and [Erdal Kılıç][ekilic]. IEEE 19th Signal Processing and Communications Applications Conference (SIU), pp 307-310, 2011. Doi: 10.1109/SIU.2011.5929648
 
 [New intelligent diagnosis nethod to determine thyroid disorders][siu2]. Erdem Alkım, Emre Gürbüz and [Erdal Kılıç][ekilic]. IEEE 19th Signal Processing and Communications Applications Conference (SIU), pp 38-41, 2011. Doi: 10.1109/SIU.2011.5929581
 
 ## Tech. Reports, Preprints
 
-[A new hope on Cortex-M][newhopearm]. Erdem Alkım, Philipp Jakubeit and Peter Schwabe.([Codes][newhopearmcodes])
-
-[Post-quantum key exchange - a new hope][newhope]. Erdem Alkım, Léo Ducas, Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report 2015/1092.
-
-[TESLA: Tightly-Secure Efficient Signatures from Standard Lattices][tesla]. Erdem Alkım, Nina Bindel, Johannes Buchmann, Özgür Dagdelen and Peter Schwabe. Cryptology ePrint Archive: Report 2015/755.
+[TESLA: Tightly-Secure Efficient Signatures from Standard Lattices][tesla]. Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen and Peter Schwabe. Cryptology ePrint Archive: Report 2015/755.
 
 
 [ekilic]:http://ilkadim.omu.edu.tr/~ekilic/
@@ -36,6 +36,7 @@ Below are some of the papers I have published.
 [siu1]:http://dx.doi.org/10.1109/SIU.2011.5929648
 [siu2]:http://dx.doi.org/10.1109/SIU.2011.5929581
 [tesla]:https://eprint.iacr.org/2015/755
-[newhope]:https://eprint.iacr.org/2015/1092
+[newhope]:https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_alkim.pdf
+[newhopeiacr]:https://eprint.iacr.org/2015/1092
 [newhopearm]:http://ia.cr/2016/758
 [newhopearmcodes]:https://github.com/erdemalkim/newhopearm
