@@ -10,14 +10,19 @@ Below are some of the papers I have published.
 
 ## Journal Articles
 
-[Sparse polynomial multiplication for lattice-based cryptography with small complexity][smlb]. Sedat Akleylek, Erdem Alkım and Zaliha Yüce Tok. The Journal of Supercomputing, 72(2), 438-450, 2016. Doi: 10.1007/s11227-015-1570-1
+[A modified parallel learning vector quantization algorithm for real-time hardware applications][lvqfpga]. Erdem Alkım, Sedat Akleylek, Erdal Kılıç. Journal of Circuits, Systems and Computers 2017, 26:10, 1750156. 
 
+[Sparse polynomial multiplication for lattice-based cryptography with small complexity][smlb]. Sedat Akleylek, Erdem Alkım and Zaliha Yüce Tok. The Journal of Supercomputing, 72(2), 438-450, 2016. Doi: 10.1007/s11227-015-1570-1
 
 [A fast and adaptive automated disease diagnosis method with an innovative neural network model][nn1]. Erdem Alkım, Emre Gürbüz and [Erdal Kılıç][ekilic]. Neural Networks, vol. 33, pp 88-96, 2012. Doi: j.neunet.2012.04.010
 
 ## Peer Review Conference Papers
 
-[A new hope on Cortex-M][newhopearm]. Erdem Alkim, Philipp Jakubeit and Peter Schwabe. The Sixth International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE2016) (_Accepted_) ([Software][newhopearmcodes])
+[NewHope without reconciliation][newhopesimple]. Erdem Alkim, Léo Ducas,
+Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
+2016/1157.
+
+[A new hope on Cortex-M][newhopearm]. Erdem Alkim, Philipp Jakubeit and Peter Schwabe. The Sixth International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE2016) ([Software][newhopearmcodes])
 
 [Post-quantum key exchange - a new hope][newhope]. Erdem Alkim, Léo Ducas, Thomas Pöpplemann and Peter Schwabe. 25th USENIX Security Symposium (USENIX Security 16), pp 327-343, 2016. ISBN: 978-1-931971-32-4. (Cryptology ePrint Archive: Report [2015/1092][newhopeiacr]).
 
@@ -40,3 +45,5 @@ Below are some of the papers I have published.
 [newhopeiacr]:https://eprint.iacr.org/2015/1092
 [newhopearm]:http://ia.cr/2016/758
 [newhopearmcodes]:https://github.com/erdemalkim/newhopearm
+[newhopesimple]:https://eprint.iacr.org/2016/1157
+[lvqfpga]:http://dx.doi.org/10.1142/S0218126617501560
