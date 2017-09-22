@@ -18,9 +18,10 @@ Below are some of the papers I have published.
 
 ## Peer Review Conference Papers
 
-[NewHope without reconciliation][newhopesimple]. Erdem Alkim, Léo Ducas,
-Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
-2016/1157.
+[Revisiting TESLA in the quantum random oracle model][tesla]. Erdem Alkim,
+Nina Bindel, Johannes Buchmann, Özgür Dagdelen, Edward Eaton, Gus Gutoski,
+Juliane Krämer, and Filip Pawlega. The Eighth International Conference on
+Post-Quantum Cryptography (PQCrypto 2017).
 
 [A new hope on Cortex-M][newhopearm]. Erdem Alkim, Philipp Jakubeit and Peter Schwabe. The Sixth International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE2016) ([Software][newhopearmcodes])
 
@@ -31,6 +32,10 @@ Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
 [New intelligent diagnosis nethod to determine thyroid disorders][siu2]. Erdem Alkım, Emre Gürbüz and [Erdal Kılıç][ekilic]. IEEE 19th Signal Processing and Communications Applications Conference (SIU), pp 38-41, 2011. Doi: 10.1109/SIU.2011.5929581
 
 ## Tech. Reports, Preprints
+
+[NewHope without reconciliation][newhopesimple]. Erdem Alkim, Léo Ducas,
+Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
+2016/1157.
 
 [TESLA: Tightly-Secure Efficient Signatures from Standard Lattices][tesla]. Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen and Peter Schwabe. Cryptology ePrint Archive: Report 2015/755.
 
