@@ -14,7 +14,7 @@ Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.
 
 I was a visiting student in [Digital Security Group](http://www.ru.nl/ds), Radboud University, Nijmegen, Netherlands.
 In here, I had been working on efficient implementations of lattice-based
-cryptographic primitives with [Peter Schwage](https://www.cryptojedi.org),
+cryptographic primitives with [Peter Schwabe](https://www.cryptojedi.org),
 between April 2015 and April 2016 and between October 2016 and April 2017.
 
 
