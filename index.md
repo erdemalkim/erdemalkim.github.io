@@ -8,9 +8,21 @@ img: files/ves.jpeg
 
 My main interest is improving efficiency of algorithms with using assembly level optimizations. I am also interested in cryptography, computer architecture, parallel programming, heterogeneous computing and hardware accelerators. 
 
-I recently had my Ph.D. degree from [Department of Mathematics][dep2] of Ege University in İzmir, Turkey.
+I am an assistant professor at [Department of Computer Engineering][dep], Ondokuz Mayıs
+University. I had my Ph.D. degree from [Department of Mathematics][dep2] of Ege University in İzmir, Turkey.
 My dissemination topic was "Analysis, Design and Efficient implementation of
 Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org). I am also working with [Sedat Akleylek](https://sites.google.com/a/bil.omu.edu.tr/akleylek/home) in several projects.
+
+I am contributing three NIST submissions, for [Post-Quantum standardization
+process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
+One can find details in [NewHope](https://newhopecrypto.org/),
+[qTesla](https://tesla.informatik.tu-darmstadt.de/de/tesla/), and
+[FrodoKEM](https://frodokem.org/).
+
+I was a research intern at Microsoft Research Cambridge, UK,  between 17 July
+2017 and 6 October 2017. My internship project was contributing
+[FrodoKEM](https://frodokem.org/)
+submission to NIST Post-Quantum standardization process.
 
 I was a visiting student in [Digital Security Group](http://www.ru.nl/ds), Radboud University, Nijmegen, Netherlands.
 In here, I had been working on efficient implementations of lattice-based
