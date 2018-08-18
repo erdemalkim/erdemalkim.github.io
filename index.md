@@ -31,10 +31,7 @@ between April 2015 and April 2016 and between October 2016 and April 2017.
 
 
 I had my MSc. degree from [Department of Computer Engineering][dep] 
-of Ondokuz Mayıs University in Samsun, Turkey. 
-During my master study, I have worked as a research assistant in the
-department and also participated in two
-Scientific Research Projects.
+of Ondokuz Mayıs University in Samsun, Turkey. During my master study, I have worked as a research assistant in the department and also participated in two Scientific Research Projects.
 During My master, I studied on the FPGA implementations of some algorithms that have applications in cryptography, coding theory, signal processing and machine learning.  
 
 
