@@ -26,8 +26,7 @@ submission to NIST Post-Quantum standardization process.
 
 I was a visiting student in [Digital Security Group](http://www.ru.nl/ds), Radboud University, Nijmegen, Netherlands.
 In here, I had been working on efficient implementations of lattice-based
-cryptographic primitives with [Peter Schwabe](https://www.cryptojedi.org),
-between April 2015 and April 2016 and between October 2016 and April 2017.
+cryptographic primitives with [Peter Schwabe](https://www.cryptojedi.org), between April 2015 and April 2016 and between October 2016 and April 2017.
 
 
 I had my MSc. degree from [Department of Computer Engineering][dep] 
