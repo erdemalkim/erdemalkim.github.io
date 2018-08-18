@@ -21,8 +21,7 @@ One can find details in [NewHope](https://newhopecrypto.org/),
 
 I was a research intern at Microsoft Research Cambridge, UK,  between 17 July
 2017 and 6 October 2017. My internship project was contributing
-[FrodoKEM](https://frodokem.org/)
-submission to NIST Post-Quantum standardization process.
+[FrodoKEM](https://frodokem.org/) submission to NIST Post-Quantum standardization process.
 
 I was a visiting student in [Digital Security Group](http://www.ru.nl/ds), Radboud University, Nijmegen, Netherlands.
 In here, I had been working on efficient implementations of lattice-based
