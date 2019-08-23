@@ -36,7 +36,12 @@ of Ondokuz Mayıs University in Samsun, Turkey. During my master study, I have w
 During My master, I studied on the FPGA implementations of some algorithms that have applications in cryptography, coding theory, signal processing and machine learning.  
 
 
-I have [published](/pubs.html) papers on topics in artificial neural networks, hardware implementation, parallel processing and also lattice-based cryptography. 
+I have [published](/pubs.html) papers on topics in artificial neural networks,
+hardware implementation, parallel processing and also lattice-based
+cryptography. 
+
+My google scholar page can be found in
+[here](https://scholar.google.com.tr/citations?user=3CtAD74AAAAJ&hl=tr).
 
 I can be reached by email at [erdemalkim@gmail.com](mailto:erdemalkim@gmail.com).
 
