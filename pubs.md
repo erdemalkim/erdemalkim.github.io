@@ -18,7 +18,8 @@ Below are some of the papers I have published.
 
 ## Peer Review Conference Papers
 
-[Compact and simple RLWE based key encapsulation mechanism][https://latincrypt2019.cryptojedi.org/papers.shtml], Erdem Alkim,
+[Compact and simple RLWE based key encapsulation
+mechanism](https://latincrypt2019.cryptojedi.org/papers.shtml), Erdem Alkim,
 Yusuf Alper Bilgin, and Murat Cenk. The Sixth International Conference on Cryptology and Information Security in Latin America (Latincrypt 2019).
 
 [Revisiting TESLA in the quantum random oracle model][tesla]. Erdem Alkim,
