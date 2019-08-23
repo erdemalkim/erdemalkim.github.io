@@ -18,6 +18,9 @@ Below are some of the papers I have published.
 
 ## Peer Review Conference Papers
 
+[Compact and simple RLWE based key encapsulation mechanism][https://latincrypt2019.cryptojedi.org/papers.shtml], Erdem Alkim,
+Yusuf Alper Bilgin, and Murat Cenk. The Sixth International Conference on Cryptology and Information Security in Latin America (Latincrypt 2019).
+
 [Revisiting TESLA in the quantum random oracle model][tesla]. Erdem Alkim,
 Nina Bindel, Johannes Buchmann, Özgür Dagdelen, Edward Eaton, Gus Gutoski,
 Juliane Krämer, and Filip Pawlega. The Eighth International Conference on
@@ -33,6 +36,11 @@ Post-Quantum Cryptography (PQCrypto 2017).
 
 ## Tech. Reports, Preprints
 
+[The Lattice-Based Digital Signature Scheme qTESLA][qtesla], Erdem Alkim,
+Paulo S. L. M. Barreto, Nina Bindel, Patrick Longa, Jefferson E. Ricardini.
+Cryptology ePrint Archive: Report 2019/085.
+
+
 [NewHope without reconciliation][newhopesimple]. Erdem Alkim, Léo Ducas,
 Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
 2016/1157.
@@ -46,6 +54,7 @@ Thomas Pöpplemann and Peter Schwabe. Cryptology ePrint Archive: Report
 [siu1]:http://dx.doi.org/10.1109/SIU.2011.5929648
 [siu2]:http://dx.doi.org/10.1109/SIU.2011.5929581
 [tesla]:https://eprint.iacr.org/2015/755
+[qtesla]:https://eprint.iacr.org/2019/085
 [newhope]:https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_alkim.pdf
 [newhopeiacr]:https://eprint.iacr.org/2015/1092
 [newhopearm]:http://ia.cr/2016/758
