@@ -8,7 +8,7 @@ img: files/ves.jpeg
 
 My main interest is improving efficiency of algorithms with using assembly level optimizations. I am also interested in cryptography, computer architecture, parallel programming, heterogeneous computing and hardware accelerators. 
 
-Starting from this September, I will work as an [ERCIM fellow](https://fellowship.ercim.eu/) at [Frauhofer Institute for Secure Information
+I am working as an [ERCIM fellow](https://fellowship.ercim.eu/) at [Frauhofer Institute for Secure Information
 Technology](https://www.sit.fraunhofer.de/en/), Darmstadt, Germany.
 
 I am an assistant professor at [Department of Computer Engineering][dep], Ondokuz Mayıs
