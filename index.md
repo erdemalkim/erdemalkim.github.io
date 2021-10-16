@@ -14,7 +14,7 @@ Technology](https://www.sit.fraunhofer.de/en/), Darmstadt, Germany.
 I am an assistant professor at [Department of Computer Science][dep], Dokuz Eylul
 University. I had my Ph.D. degree from [Department of Mathematics][dep2] of Ege University in İzmir, Turkey.
 My dissemination topic was "Analysis, Design and Efficient implementation of
-Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org). I am also working with [Sedat Akleylek](https://sites.google.com/a/bil.omu.edu.tr/akleylek/home) in several projects.
+Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org).
 
 I am contributing three NIST submissions, for [Post-Quantum standardization
 process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
@@ -36,12 +36,9 @@ of Ondokuz Mayıs University in Samsun, Turkey. During my master study, I have w
 During My master, I studied on the FPGA implementations of some algorithms that have applications in cryptography, coding theory, signal processing and machine learning.  
 
 
-I have [published](/pubs.html) papers on topics in artificial neural networks,
+I have [published](https://scholar.google.com.tr/citations?user=3CtAD74AAAAJ) papers on topics in artificial neural networks,
 hardware implementation, parallel processing and also lattice-based
 cryptography. 
-
-My google scholar page can be found in
-[here](https://scholar.google.com.tr/citations?user=3CtAD74AAAAJ&hl=tr).
 
 I can be reached by email at [erdemalkim@gmail.com](mailto:erdemalkim@gmail.com).
 
