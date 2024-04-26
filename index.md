@@ -13,10 +13,10 @@ Technology](https://www.sit.fraunhofer.de/en/), Darmstadt, Germany.
 
 I am an assistant professor at [Department of Computer Science][dep], Dokuz Eylul
 University. I had my Ph.D. degree from [Department of Mathematics][dep2] of Ege University in İzmir, Turkey.
-My dissemination topic was "Analysis, Design and Efficient implementation of
+My dissertation topic was "Analysis, Design and Efficient implementation of
 Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org).
 
-I am contributing three NIST submissions, for [Post-Quantum standardization
+I contributed three NIST submissions, for [Post-Quantum standardization
 process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography/Round-1-Submissions).
 One can find details in [NewHope](https://newhopecrypto.org/),
 [qTesla](https://tesla.informatik.tu-darmstadt.de/de/tesla/), and
