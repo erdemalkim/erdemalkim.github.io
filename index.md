@@ -11,7 +11,9 @@ My main interest is improving efficiency of algorithms with using assembly level
 I worked as an [ERCIM fellow](https://fellowship.ercim.eu/) at [Frauhofer Institute for Secure Information
 Technology](https://www.sit.fraunhofer.de/en/), Darmstadt, Germany.
 
-I am an assistant professor at [Department of Computer Science][dep], Dokuz Eylul
+I am currently visiting scholar in [Academia Sinica, Taipei,
+Taiwan](https://www.iis.sinica.edu.tw/en/page/People/VisitingScholars/2024.html).
+I am also an assistant professor at [Department of Computer Science][dep], Dokuz Eylul
 University. I had my Ph.D. degree from [Department of Mathematics][dep2] of Ege University in İzmir, Turkey.
 My dissertation topic was "Analysis, Design and Efficient implementation of
 Next Generation Cryptosystems", and my advisors were [Urfat Nuriyev](http://fen.ege.edu.tr/~urfat/eng_kisisel_bilgiler.html) and [Peter Schwabe](https://www.cryptojedi.org).
